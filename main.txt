@@ -13,3 +13,8 @@ Security patch
    end}
 end sec patch}
 
+{feature1 code
+ {start
+   feature1 function
+  end}
+ end feature1 code}
