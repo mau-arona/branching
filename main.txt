@@ -1,0 +1,8 @@
+this is the main code
+
+{main code
+ {start
+    main function
+  end}
+ end main code}
+
