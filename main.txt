@@ -7,6 +7,7 @@ this is the main code
  end main code}
 
 
+
 Security patch
 {secpatch code
   {start
@@ -14,11 +15,16 @@ Security patch
    end}
 end sec patch}
 
+
+
 feature2 code
 {feature2 code
  {start
     feature2 function
   end}
-end feature2 function}
+
+
+
+
 
 
