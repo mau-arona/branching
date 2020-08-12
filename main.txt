@@ -6,3 +6,8 @@ this is the main code
   end}
  end main code}
 
+{feature1 code
+ {start
+   feature1 function
+  end}
+ end feature1 code}
